@@ -1,1 +1,1 @@
-# 28_LopezGarcia_LAB1_DB1
+# 28_LOPEZGARCIA_LAB1_DB1
